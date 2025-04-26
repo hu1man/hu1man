@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Vidun Dulmika</h1>
 <h3 align="center">A passionate Web-App Developer from Srilanka</h3>
 
@@ -20,7 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/724fb836610119.57224419a212b.gif">
+  <img align="center" alt="Coding" width="450" src="https://github.com/hu1man/hu1man/blob/main/724fb836610119.57224419a212b.gif?raw=true">
 
   
   </td>
