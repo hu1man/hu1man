@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **vidundulmika@yahoo.com**
+- 📫 How to reach me **vidundulmikavd@gmail.com**
   
 - ⚡ Fun fact **Gaming**
 
